@@ -1,5 +1,7 @@
 # Kasampi
 
+> This is a prototype developed using AI coding agents and not intended for production use.
+
 Custom skills and tools for Claude Code.
 
 ## Contents
